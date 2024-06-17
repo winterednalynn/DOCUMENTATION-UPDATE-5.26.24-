@@ -1,6 +1,6 @@
 # DOCUMENTATION UPDATE 5.26.24 
 
-Date: April 14, 2024
+Date: June 1, 2024 
 
 Features Added/Updated Since Last Update
 I had to adjust things accordingly due to be hospitalized this quarter and with permission I did just that but still grasp an understanding. I inspired to work more into tensorflow and cv on python. This was the initial libraries i learned in regards of building a facial recognition time card. With the same inspiration, i wanted to scan a particular image and it will prompt a game. 
